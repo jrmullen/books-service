@@ -1,7 +1,7 @@
 # books-service
 Go books API
 
-#Sample book object
+# Sample book object
 ```
     {
         "id": "1",
